@@ -1,0 +1,21 @@
+body{
+    background:	#EADDCA ;
+    height: 100vh;
+}
+h1{
+    color: #800020;
+    font-family: fantasy;
+    font-size: 3em;
+}
+.container{
+    display: grid;
+    align-items:center;
+    height: 100%;
+    justify-content: center;
+}
+a{
+    color: #800020;
+}
+p{
+    font-size: 2em;
+}
